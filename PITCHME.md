@@ -14,4 +14,4 @@
 
 ---
 
-# THE <span style="color:gray">END</span>
+# <span style="color:gray">THE</span> END
