@@ -1,6 +1,6 @@
 ---
 
-![LOGO](logo-text.png)
+![LOGO](logo-text.svg)
 
 ### Why Kotlin is Awesome
 ##### by Ben Barth
