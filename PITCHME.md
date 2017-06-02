@@ -3,7 +3,7 @@
 ![LOGO](logo-text.png)
 
 ### Why Kotlin is Awesome
-### 👨‍💻 👩‍💻
+# 👨‍💻 👩‍💻
 #### by Ben Barth
 
 ---
