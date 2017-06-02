@@ -56,6 +56,51 @@ There are too many companies using Kotlin to list, but some more visible compani
 
 ---
 
+# Alright,
+## Let's see some code
+
+---
+
+## Code Example #1
+
+---
+
+---
+
+## Code Example #2
+
+---
+
+---
+
+## Code Example #3
+
+---
+
+---
+
+## Code Example #4
+
+---
+
+---
+
+## Code Example #5
+
+---
+
+---
+
+## Code Example #6
+
+---
+
+---
+
+## Code Example #7
+
+---
+
 ## Where can I learn more about Kotlin?
 
 The best place to start is [kotlinlang.org](https://kotlinlang.org/). From there you can download the compiler, try it online ([try.kotlinlang.org](https://try.kotlinlang.org/)) as well as get access to resources, [reference documentation](https://kotlinlang.org/docs/reference/index.html) and [tutorials](https://kotlinlang.org/docs/tutorials/index.html).
