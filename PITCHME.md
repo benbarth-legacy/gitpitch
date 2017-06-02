@@ -1,7 +1,6 @@
 ---
-<!-- .slide: data-autoslide="10000" -->
 
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
+![LOGO](logo-text.png)
 
 #### Get the word out
 <br>
