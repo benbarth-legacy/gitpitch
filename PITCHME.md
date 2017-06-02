@@ -116,4 +116,6 @@ The best place to start is [kotlinlang.org](https://kotlinlang.org/). From there
 ---
 
 # Resources
+### [kotlinlang.org](https://kotlinlang.org)
+### [try.kotlinlang.org](https://try.kotlinlang.org/)
 ### [Kotlin FAQ](https://kotlinlang.org/docs/reference/faq.html)
