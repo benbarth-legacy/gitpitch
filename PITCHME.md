@@ -3,6 +3,7 @@
 ![LOGO](logo-text.png)
 
 # Why Kotlin is Awesome
+## 👨‍💻 👩‍💻
 #### by Ben Barth
 
 ---
@@ -10,7 +11,7 @@
 
 # FAQ
 
-##### [--> Available Here <--](https://kotlinlang.org/docs/reference/faq.html)
+##### [--> https://kotlinlang.org/docs/reference/faq.html <--](https://kotlinlang.org/docs/reference/faq.html)
 
 ---
 
