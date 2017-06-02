@@ -2,13 +2,8 @@
 
 ![LOGO](logo-text.png)
 
-#### Get the word out
-<br>
-<span style="color:gray">Markdown Presentations For Developers</span>
-<br>
-<span style="color:gray">on</span>
-<br>
-<span style="color:gray">GitHub, GitLab and Bitbucket</span>
+### Why Kotlin is Awesome
+##### by Ben Barth
 
 ---
 
@@ -17,7 +12,6 @@
 <span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
 
 ---
-<!-- .slide: data-autoslide="2000" -->
 
 ### No more <span style="color: #666666">Keynote.</span>
 ### <span class="fragment" data-fragment-index="1" data-autoslide="2000">No more <span style="color: #666666">Powerpoint.</span>
@@ -53,7 +47,6 @@ Git-commit on any branch and push your PITCHME.md to GitHub, GitLab or Bitbucket
 Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
 
 ---
-<!-- .slide: data-autoslide="11000" -->
 
 <span style="color: #e49436">GIT</span>PITCH DESIGNED FOR SHARING
 
@@ -67,7 +60,6 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 - Download and present any slideshow offline
 
 ---
-<!-- .slide: data-autoslide="12000" -->
 
 <span style="color: #e49436">GIT</span>PITCH FEATURE RICH SLIDESHOWS
 
@@ -82,7 +74,6 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 
 
 ---
-<!-- .slide: data-autoslide="8000" -->
 
 ### Go for it.
 ### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
